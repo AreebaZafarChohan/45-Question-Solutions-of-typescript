@@ -16,7 +16,7 @@ console.log("New Invitations for Dinner:");
 
 for (let guest of guestList) {
     console.log(`\nDear ${guest}, I am inviting you for dinner. 
-    It's a pleasure for me if you will come. So come and join us! `)
+    It's a pleasure for me if you will come. So come and join us! `);
 }
 
 
